@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "empleados",
+            "dialect": "MariaDB",
+            "name": "DataBase01",
+            "password": "root",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
